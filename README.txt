@@ -1,0 +1,1 @@
+Add a new 'Application' configuration (desktop) with cp (classpath) set to 'flappy-bird-main.desktop.main' and Main class set to 'flappybird.DesktopLauncher'. Also set working directory to 'flappy-bird-main\assets'.
